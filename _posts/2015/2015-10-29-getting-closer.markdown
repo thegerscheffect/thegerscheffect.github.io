@@ -8,6 +8,7 @@ categories: Almost Serious
 >Hello World!, once again. I am coming to you from Atom, one of the easy text editors that I use for coding front-end web development. I installed a couple of markdown plugins and after a few trial and errors, everything seems to be working fine. I hope!
 
 Something to consider...
+
 ##Topics
 Here are some subjects I'm thinking about writing:
 
