@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thegerscheffect.com" # the base hostname & protocol for your site
 twitter_username: thegerscheffect
 github_username:  thegerscheffect
-linkedin_username: gersch
+linkedin_username: /in/gersch
 
 # Build settings
 markdown: kramdown
