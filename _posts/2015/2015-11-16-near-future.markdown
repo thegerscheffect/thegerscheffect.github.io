@@ -9,7 +9,7 @@ category: future
 ___
 
 #### Green
-I have the opportunity to participate in a full-stack development bootcamp. Full-stack meaning programming websites from the design to the back-end efficiency. The bootcamp is 16-weeks long for five days a week in the evenings. Included in the class is the cost of two industry certificates.
+I have the opportunity to participate in a full-stack development bootcamp. Full-stack meaning programming websites from the design to the back-end efficiency. The bootcamp meets 5 days a week in the evenings for 16-weeks. Included in the class is the cost of two industry certificates.
 
 ___
 
@@ -24,9 +24,9 @@ I'm afraid of splitting my focus and time in too many directions and consequentl
 ___
 
 #### Black
-One day life will come to an end and all that will be left are our memories. Which memories will I choose today is a question I am constantly asking myself. With all the doors available to open and every path available for action, still, the right door or the perfect path does not exist in our Universe. Tiredly, I find myself looking for security and absolute certainty in our uncertain world.
+One day, life will come to an end and all that will be left are our memories. Which memories will I choose today is a question I am constantly asking myself. With all the doors available to open and every path available for action, still, the right door or the perfect path does not exist in our Universe. Tiredly, I find myself looking for security and absolute certainty in our uncertain world.
 
 ___
 
 #### Blue
-My gorgeous girlfriend and I and are currently on our 15th month together and everything is moving along wonderfully. Topics of homes, dogs, kids, and marriage are at play and we are eternally grateful to have found each other. This stability is a driving force in our lives and see ourselves living a beautiful and elegant life together.
+My gorgeous girlfriend and I and are currently on our 15th month together and everything is moving along wonderfully. Topics of homes, dogs, kids, and marriage are at play and we are eternally grateful to have found each other. This stability is a driving force in our lives, and allows us see ourselves living a beautiful and elegant life together.
