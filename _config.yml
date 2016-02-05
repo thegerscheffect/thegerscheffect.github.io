@@ -9,7 +9,7 @@
 title: "The Gersch Effect"
 email: gersch@thegerscheffect.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a cool new project I am building as a proactive approach to teaching myself how to code. My goal for the next year is to transfrom this into a great looking portfolio with projects ranging from non-profits and local government work in order to attract for-profit clientel. I am a student at Miami Dade College (MDC) transferring to Florida International University's (FIU) School of Computer Science in the Spring of 2017. I have participated in Harvard's CS50x on edX.org and FreeCodeCamp's Full Stack Development track.
+  This is a cool new project I am building as a proactive approach to teaching myself how to code. My goal for the next year is to transfrom this into a great looking portfolio with projects from non-profits and local government to attract for-profit clientel. I am a student at Miami Dade College (MDC) transferring to Florida International University's (FIU) School of Computer Science in the Spring of 2017.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thegerscheffect.com" # the base hostname & protocol for your site
