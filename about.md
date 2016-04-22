@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Processing creative ideas to inspire your playful spirit to smile, laugh, and feel happiness.
+Processing creative ideas that inspire playful spirits to smile, laugh, and feel absolute joy and everlasting happiness.
